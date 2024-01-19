@@ -47,8 +47,8 @@
 
 <img align="right" width="88" src="https://hzy2003628.top/images/avatar.png" />
 
-<p>&emsp;&emsp;嗨，你好，我是故里。</p>
-<p>&emsp;&emsp;热爱计算机科学和网络安全前沿技术，希望能成为一名优秀的网络安全从业者。</p>
+<p>&emsp;&emsp;Hi there, my name is Guli.</p>
+<p>&emsp;&emsp;I am passionate about computer science and the cutting-edge technology of cybersecurity, and I hope to become an excellent cybersecurity practitioner.</p>
 
 </td></tr>
 
